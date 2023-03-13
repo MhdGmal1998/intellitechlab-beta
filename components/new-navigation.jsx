@@ -15,10 +15,9 @@ import {
   CardMedia,
   Button,
 } from "@mui/material";
-import MenuIcon from "@mui/icons-material/Menu";
-import CloseIcon from "@mui/icons-material/Close";
+
 import { Container } from "@mui/system";
-// import { Fade as Hamburger } from "hamburger-react";
+import { Fade as Hamburger } from "hamburger-react";
 
 const navItems = [
   {
@@ -111,19 +110,12 @@ export default function IntellitechlabNavbar(props) {
               alignSelf: "flex-end",
             }}
           >
-            <Button
-              onClick={() => {
-                setMobileOpen(!mobileOpen);
-              }}
-            >
-              Click here
-            </Button>
-            {/* <Hamburger
+            <Hamburger
               direction="left"
               size={22}
               toggled={mobileOpen}
               toggle={setMobileOpen}
-            /> */}
+            />
           </IconButton>
           <Box sx={{ flexGrow: 1, display: "flex" }}>
             <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
