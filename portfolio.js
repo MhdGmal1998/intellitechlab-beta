@@ -359,7 +359,7 @@ export const seoData = {
 	description:
 		"We are a team of intellitectlab Designers and Developers making websites and apps for you",
 	author: "Intellitechlab software company",
-	image: "http://intellitechlab.com/favicon.png",
+	image: "https://intellitechlab-beta.vercel.app/favicon.png",
 	url: "https://intellitechlab.com",
 	keywords: [
 		"Mohammed",
