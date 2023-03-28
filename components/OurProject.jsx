@@ -13,11 +13,7 @@ const OurProject = () => {
       alt: "",
       src: "/projects/ikia.jpg",
     },
-    {
-      name: "",
-      alt: "",
-      src: "/projects/secure.png",
-    },
+
     {
       name: "",
       alt: "",
@@ -32,6 +28,11 @@ const OurProject = () => {
       name: "",
       alt: "",
       src: "/projects/masr.jpg",
+    },
+    {
+      name: "",
+      alt: "",
+      src: "/projects/secure.png",
     },
   ];
   return (
