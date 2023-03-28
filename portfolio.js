@@ -362,14 +362,11 @@ export const seoData = {
 	image: "https://intellitechlab-beta.vercel.app/favicon.png",
 	url: "https://intellitechlab.com",
 	keywords: [
-		"Mohammed",
-		"Mohammed Alhomaidi",
-		"محمد جمال الحميدي",
-		"@MhdGmal1998",
-		"MhdGmal1998",
-		"Portfolio",
-		"Mohammed Portfolio ",
-		"Mohammed Alhomaidi Portfolio",
+		"Intellitechlab",
+		"Intellitechlab company",
+		"Intellitechlab",
+		"Intellitechlab",
+		"Intellitechlab website",
 	],
 }
 export const services = [

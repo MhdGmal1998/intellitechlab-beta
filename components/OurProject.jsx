@@ -11,7 +11,7 @@ const OurProject = () => {
     {
       name: "",
       alt: "",
-      src: "/projects/medical.jpg",
+      src: "/projects/ikia.jpg",
     },
     {
       name: "",
